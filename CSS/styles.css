@@ -8,6 +8,29 @@
     --cornflower: #e7e9fc;
   }
   
+  .body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.5; /* 150% */
+    letter-spacing: 0.02em; 
+    color: var(--slate);
+    background-color: #FFF;
+  }
+
+  .nav-list, .address-link, .logo-type, .footer-logo
+ {
+
+  text-decoration: none;
+}
+
+.nav, .address, .about-list, .our-team-list, .our-portfolio-list
+{
+  list-style: none;
+}
+
+
   .logo-type
   {
     color: var(--navy-blue); 
@@ -32,29 +55,6 @@ line-height: 1.16; /* 116.667% */
 letter-spacing: 0.03em;
 text-transform: uppercase; 
   }
-
-  .body {
-
-    font-family: 'Roboto', sans-serif;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 1.5; /* 150% */
-    letter-spacing: 0.02em; 
-
-  }
-
-  .nav-list, .address-link, .logo-type, .footer-logo
-  {
-
-  text-decoration: none;
-}
-
-.nav, .address, .about-list, .our-team-list, .our-portfolio-list
-{
-  list-style: none;
-}
-
 
 
 button
