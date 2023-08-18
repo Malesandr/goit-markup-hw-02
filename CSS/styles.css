@@ -21,12 +21,12 @@
   }
   
 /* decoration */
-.nav-list, .address-link, .logo-type, .footer-logo {
+.nav-list-name, .address-link, .logo-type, .footer-logo {
 
   text-decoration: none;
 }
 
-.nav, .address, .about-list, .our-team-list, .our-portfolio-list {
+.nav, .address-list, .about-list, .our-team-list, .our-portfolio-list {
   list-style: none;
 }
 
@@ -69,7 +69,7 @@ letter-spacing: 0.02em;
 }
 
 /* nav list */
-.nav-list {
+.nav-list-name {
 color: var(--navyblue);
 font-size: 16px;
 font-weight: 500;
@@ -83,6 +83,7 @@ color: var(--slate);
 font-size: 16px;
 font-weight: 400;
 line-height: 1.5;
+font-style: normal; 
 letter-spacing: 0.02em; 
 }
 
