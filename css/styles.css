@@ -73,7 +73,7 @@ letter-spacing: 0.02em;
 }
 
 /* address link */
-.address {
+.address, .address-link {
 color: var(--slate); 
 font-size: 16px;
 font-weight: 400;
