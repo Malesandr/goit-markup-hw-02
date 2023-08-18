@@ -31,8 +31,10 @@
 }
 
 /* logo */
+
+    
   .logo-type {
-    color: var(--navy-blue); 
+    color: var(--iris); 
     font-family: Raleway, sans-serif;
     font-size: 18px;
     font-style: normal;
@@ -42,17 +44,10 @@
     text-transform: uppercase; 
   }
 
-  .logo-web {
- 
-color: var(--iris);
-font-family: Raleway, sans-serif;
-font-size: 18px;
-font-style: normal;
-font-weight: 700;
-line-height: 1.16;
-letter-spacing: 0.03em;
-text-transform: uppercase; 
-  }
+  .logo-studio {
+    color: var(--navyblue);
+     }
+
 
   /* hero */
 .hero {
@@ -192,14 +187,8 @@ letter-spacing: 0.02em;
   background-color: var(--navyblue); 
 }
 
-.footer-logo{
-  color: var(--cloud);
-  font-family: Raleway, sans-serif;
-  font-size: 18px;
-  font-weight: 700;
-  line-height: 1.16;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;  
+.logo-studio-footer {
+  color: var(--cloud); 
 }
 
 .footer-text {
