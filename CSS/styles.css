@@ -20,9 +20,8 @@
     --ocean: #404BBF;
   }
   
-
-
-  .nav-list, .address-link, .logo-type, .footer-logo {
+/* decoration */
+.nav-list, .address-link, .logo-type, .footer-logo {
 
   text-decoration: none;
 }
