@@ -121,9 +121,6 @@ button {
  .about-section {
   background-color: var(--white); 
  }
- .about-title {}
- .about-list {}
- .about-list-item {}
 
  .about-name-h3 {
     color: var(--navyblue); 
@@ -132,8 +129,6 @@ button {
      line-height: 1.2;
      letter-spacing: 0.02em;
  }
-
- .about-descr {}
 
  /* our team section */
  .team-section {
@@ -150,12 +145,10 @@ button {
   text-align: center;
 }
 
-.our-team-list {}
 
 .team-list-item, .team-img {
   background-color: var(--white);
 }
-
 
 .teame-name {
 color: var(--navyblue);
@@ -164,10 +157,6 @@ font-weight: 500;
 line-height: 1.2;
 letter-spacing: 0.02em; 
 text-align: center;
-}
-
-.team-profession {
-
 }
 
 /* portfolio section */
@@ -183,11 +172,11 @@ letter-spacing: 0.02em;
 text-transform: capitalize;
 text-align: center;
 }
-.our-portfolio-list {}
+
 .portfolio-list-item {
   background-color: var(--white); 
 }
-.portfolio-img {}
+
 .portfolio-name {
 color: var(--navyblue);
 font-size: 20px;
@@ -195,7 +184,6 @@ font-weight: 500;
 line-height: 1.2;
 letter-spacing: 0.02em; 
 }
-.portfolio-descr {}
 
 /* footer */
 .page-footer {
