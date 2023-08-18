@@ -176,9 +176,10 @@ text-align: center;
 .portfolio-title {
 color: var(--navyblue);
 font-size: 36px;
-font-weight: 1.11;
+font-weight: 700;
+line-height: 1.11;
 letter-spacing: 0.02em;
-text-transform: capitalize; 
+text-transform: capitalize;
 text-align: center;
 }
 .our-portfolio-list {}
